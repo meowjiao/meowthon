@@ -23,7 +23,7 @@ def main():
     while 1:
         select = input("run or exit -> ")
         if select == "run":
-            path = input("File Path -> ")
+            path = input("file path -> ")
             file = open(path, "r")
             code = file.read()
             run(code)
