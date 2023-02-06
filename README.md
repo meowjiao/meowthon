@@ -16,4 +16,9 @@ python3 main.py
 使用教程：
 [meowthon docs](https://meowjiao.github.io/2023/02/05/meowthon-docs/)
 
+欢迎大家提交issue、pr，或者给我更好的语言参考，谢谢！
+
+赞助：
+暂无
+
 [email](mailto:Meowjiao321@outlook.com)
